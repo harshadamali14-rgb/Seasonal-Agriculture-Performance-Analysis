@@ -1,6 +1,3 @@
-Sure. Here is the **README.md** for your **Seasonal Agriculture Performance Analysis** GitHub project:
-
-````markdown
 # 🌾 Seasonal Agriculture Performance Analysis
 
 A Python-based data analysis project that evaluates agricultural performance across crops, seasons, states, and districts to identify patterns in **crop yield, profitability, water efficiency, and farming risks**.
